@@ -1,0 +1,93 @@
+*,
+*::after,
+*::before {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(255, 255, 255);
+    height: 100%;
+}
+.square1{
+    background-color: rgb(251, 251, 248);
+    margin: 10px  auto;
+    width: 300px;
+    height: 250px;
+    border-radius: 3%;
+    margin-right: 38%;
+    margin-top: 30px;
+    border: 3px solid rgb(240, 190, 190);
+}
+.square2{
+    background-color: rgb(251, 251, 248);
+    margin: 10px auto;
+    width: 300px;
+    height: 250px;
+    border-radius: 3%;
+    margin-right: 38%;
+    margin-top: 30px;
+    border: 3px solid rgb(180, 180, 226);
+}
+.circle1{
+    background-color: rgb(243, 121, 121);
+    margin: 20px auto;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    font-size: 1rem;
+}
+.circle2{
+        background-color: blue;
+        margin: 20px auto;
+        width: 30px;
+        height: 30px;
+        border-radius: 50%;
+        font-size: 1rem;
+}
+h2{
+    text-align: center;
+}
+.link1{
+    margin: 10px;
+    text-align: center;
+   color: rgba(201, 54, 118, 0.9);
+}
+.link2{
+    margin: 10px;
+    text-align: center;
+   color: rgba(201, 54, 118, 0.9);
+}
+.link1 button{
+    background-color: rgb(250, 213, 213);
+    color: rgb(242, 45, 45);
+    text-align: center;
+    border: none;
+    padding: 8px 15px;
+    border-radius: 6px;
+}
+.link2 button{
+    background-color: rgb(237, 237, 252);
+    color:rgb(42, 42, 221);
+    text-align: center;
+    border: none;
+    padding: 8px 15px;
+    border-radius: 6px;
+}
+
+p{
+    text-align: center;
+    padding: 20px ;
+}
+.body{
+    background-color: rgb(236, 246, 246);
+    margin: 15px  auto;
+    width: 330px;
+    height: 590px;
+    border-radius: 3%;
+    margin-left: 38%;
+    border: 3px double rgb(246, 255, 144);
+    padding-left: 13px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+}
